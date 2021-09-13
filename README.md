@@ -14,3 +14,6 @@ It's clear how Chile, Argentina and Spain show a significant similarity. Contrar
 [['us', 'es', 0.08]]
 [['us', 'gb', 0.36]]
 [['es', 'gb', 0.07]]
+
+![image](https://user-images.githubusercontent.com/17602895/133090551-b83365e9-a1a7-4b97-b54c-c130440acdd7.png)
+
